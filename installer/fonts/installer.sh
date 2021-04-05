@@ -31,7 +31,7 @@
 
 
 # Android system locale
-lang=ko-KR
+lang=zh-TW
 
 update_font=0
 remove_old_font=0
